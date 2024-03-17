@@ -1,4 +1,4 @@
-const URL_API='http://groseries-api-8ona.onrender.com'
+const URL_API='https://groceries-api-45ll.onrender.com/'
 
 export const getProducts = () =>{
     const loadProducts = async () => {
